@@ -16,10 +16,11 @@ npm i
 ```
 ## Start the local test chain
 ```
+npx hardhat node
+```
 Create private network in metamask,By default for localhost chain ID would be 1337.
 Import private key to connect to localhost account.
 After paste private key click on import and metamask will be connected to localhost test account to perform transactions.
-```
 
 ## run dev server
 ```
